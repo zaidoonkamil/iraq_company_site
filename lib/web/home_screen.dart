@@ -81,7 +81,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         }else if(index ==3){
                           _scrollToPosition(1400);
                         }else if(index ==2){
-                          _scrollToPosition(1200);
+                          _scrollToPosition(2600);
                         }else if(index ==1){
                           _scrollToPosition(1850);
                         } else if(index ==0){

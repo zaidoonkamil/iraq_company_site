@@ -13,9 +13,10 @@ class TopImages extends StatefulWidget {
 class _TopImagesState extends State<TopImages> {
 
   List imageList = [
-    {"id": 1, "image_path": 'assets/images/photo_2023-11-01_21-00-54.jpg'},
-    {"id": 2, "image_path": 'assets/images/photo_2023-11-01_21-00-57.jpg'},
-    {"id": 3, "image_path": 'assets/images/photo_2023-11-01_21-01-00.jpg'}
+    {"id": 1, "image_path": 'assets/images/photo_2023-11-29_18-10-02.jpg'},
+    {"id": 2, "image_path": 'assets/images/photo_2023-11-29_18-10-16.jpg'},
+    {"id": 3, "image_path": 'assets/images/photo_2023-11-29_18-10-22.jpg'},
+    {"id": 4, "image_path": 'assets/images/photo_2023-11-29_18-10-27.jpg'}
   ];
   final CarouselController carouselController = CarouselController();
   int currentIndex = 0;
