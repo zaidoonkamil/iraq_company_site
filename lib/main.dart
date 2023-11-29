@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:web_shareka/mobile/constants.dart';
 import 'package:web_shareka/mobile/home_screen.dart';
-import 'package:web_shareka/splash.dart';
 
 import 'web/home_screen.dart';
 
