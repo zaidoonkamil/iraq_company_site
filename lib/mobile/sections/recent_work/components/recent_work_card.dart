@@ -43,7 +43,7 @@ class _RecentWorkCardMobileState extends State<RecentWorkCardMobile> {
       },
       child: AnimatedContainer(
         duration: const Duration(milliseconds: 200),
-        height: 120,
+        height: 140,
         width: double.maxFinite,
         decoration: BoxDecoration(
           color: Colors.white,
